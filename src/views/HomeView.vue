@@ -1,7 +1,7 @@
 
 <template>
   <div>
-    home
+    HomeView
   </div>
 </template>
 
